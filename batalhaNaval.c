@@ -73,4 +73,5 @@ int main() {
     exibirTabuleiro(tabuleiro);
     
     return 0;
+    
 }
